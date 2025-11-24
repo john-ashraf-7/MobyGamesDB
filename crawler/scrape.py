@@ -6,7 +6,6 @@ import re
 import os
 
 # ---------- SCRAPING FUNCTION ----------
-
 def scrape_mobygames():
     games_data = []
 
