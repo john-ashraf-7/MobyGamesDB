@@ -1,0 +1,677 @@
+game_id,platform,release_year
+1,Windows,2020
+1,Macintosh,2020
+1,Stadia,2020
+1,PlayStation 5,2023
+1,Xbox Series,2023
+2,Nintendo Switch,2023
+2,Nintendo Switch 2,2025
+5,Windows,2022
+5,PlayStation 4,2022
+5,Xbox One,2022
+5,PlayStation 5,2022
+5,Xbox Series,2022
+6,Windows,2024
+6,Windows Apps,2024
+6,PlayStation 4,2024
+6,PlayStation 5,2024
+6,Xbox Series,2024
+7,Windows,2025
+7,Windows Apps,2025
+7,PlayStation 5,2025
+7,Xbox Series,2025
+7,Xbox Cloud Gaming,2025
+8,PlayStation 4,2022
+8,PlayStation 5,2022
+9,Windows,2023
+9,PlayStation 4,2023
+9,PlayStation 5,2023
+9,Xbox Series,2023
+9,Macintosh,2023
+9,iPhone,2023
+9,iPad,2023
+10,Linux,2025
+10,Windows,2025
+10,Macintosh,2025
+10,Windows Apps,2025
+10,PlayStation 4,2025
+10,Xbox One,2025
+10,Nintendo Switch,2025
+10,PlayStation 5,2025
+10,Xbox Series,2025
+10,Xbox Cloud Gaming,2025
+10,Nintendo Switch 2,2025
+11,Windows,2025
+11,PlayStation 5,2025
+11,Xbox Series,2025
+11,Nintendo Switch 2,2025
+12,Windows,2024
+12,PlayStation 4,2024
+12,Xbox One,2024
+12,Nintendo Switch,2024
+12,PlayStation 5,2024
+12,Xbox Series,2024
+12,Macintosh,2024
+12,Android,2024
+12,iPhone,2024
+12,iPad,2024
+13,Windows,2024
+13,Windows Apps,2024
+13,PlayStation 4,2024
+13,Xbox One,2024
+13,PlayStation 5,2024
+13,Xbox Series,2024
+15,Windows,2023
+15,PlayStation 4,2023
+15,PlayStation 5,2023
+15,Xbox Series,2023
+16,PlayStation 5,2024
+16,Windows,2025
+17,PlayStation 4,2021
+17,Nintendo Switch,2021
+19,Windows,2022
+19,Windows Apps,2022
+19,Xbox One,2022
+19,Nintendo Switch,2022
+19,PlayStation 5,2022
+19,Xbox Series,2022
+20,Windows,2025
+20,Windows Apps,2025
+20,PlayStation 5,2025
+20,Xbox Series,2025
+21,Windows,2024
+21,Nintendo Switch,2024
+21,PlayStation 5,2024
+21,Xbox Series,2024
+22,Windows,2021
+22,Windows Apps,2021
+22,PlayStation 4,2021
+22,Xbox One,2021
+22,Xbox Series,2021
+22,Linux,2022
+22,Macintosh,2022
+23,Windows,2025
+23,PlayStation 5,2025
+23,Xbox Series,2025
+23,Luna,2025
+24,Windows,2024
+24,PlayStation 5,2024
+24,Xbox Series,2024
+26,Windows,2021
+26,PlayStation 4,2021
+26,Xbox One,2021
+26,PlayStation 5,2021
+26,Xbox Series,2021
+26,Nintendo Switch,2022
+28,PlayStation 4,2021
+28,PlayStation 5,2021
+28,Windows,2024
+29,PlayStation 5,2025
+29,Windows,2025
+29,Xbox Series,2025
+30,PlayStation 4,2020
+30,PlayStation Now,2021
+33,Windows,2020
+33,Windows Apps,2020
+33,Xbox Series,2021
+33,Xbox Cloud Gaming,2022
+34,Windows Apps,2020
+34,Xbox One,2020
+34,Windows,2020
+34,Xbox Cloud Gaming,2020
+34,Nintendo Switch,2020
+35,Windows,2024
+35,Nintendo Switch,2024
+35,PlayStation 5,2024
+35,Xbox Series,2024
+36,Windows,2021
+36,Windows Apps,2021
+36,Xbox One,2021
+36,Xbox Series,2021
+36,PlayStation 5,2025
+37,PlayStation 5,2022
+37,Windows,2023
+39,Linux,2023
+39,Windows,2023
+39,Macintosh,2023
+39,PlayStation 4,2024
+39,Xbox One,2024
+39,Nintendo Switch,2024
+39,PlayStation 5,2024
+39,Xbox Series,2024
+40,Windows,2023
+40,Windows Apps,2023
+40,Xbox Series,2023
+40,PlayStation 5,2024
+41,Linux,2022
+41,Windows,2022
+41,Macintosh,2022
+41,Windows Apps,2022
+41,PlayStation 4,2022
+41,Xbox One,2022
+41,Nintendo Switch,2022
+41,Xbox Series,2022
+41,Xbox Cloud Gaming,2022
+43,PlayStation 5,2023
+43,Windows,2025
+44,Windows,2022
+44,Macintosh,2023
+44,Nintendo Switch,2023
+44,PlayStation 4,2024
+44,PlayStation 5,2024
+45,Windows,2024
+45,Windows Apps,2024
+45,PlayStation 4,2024
+45,Xbox One,2024
+45,Nintendo Switch,2024
+45,PlayStation 5,2024
+45,Xbox Series,2024
+46,PlayStation 4,2021
+46,PlayStation 5,2022
+46,Windows,2022
+47,Windows,2024
+47,Nintendo Switch,2025
+49,Windows,2025
+49,PlayStation 4,2025
+49,Xbox One,2025
+49,Nintendo Switch,2025
+49,PlayStation 5,2025
+49,Xbox Series,2025
+50,Windows,2025
+50,PlayStation 4,2025
+50,Nintendo Switch,2025
+50,PlayStation 5,2025
+51,Windows,2023
+51,PlayStation 5,2023
+51,Xbox Series,2023
+52,Windows,2023
+52,PlayStation 5,2023
+52,Xbox Series,2023
+53,Windows,2023
+53,Windows Apps,2023
+53,PlayStation 4,2023
+53,Xbox One,2023
+53,Nintendo Switch,2023
+53,PlayStation 5,2023
+53,Xbox Series,2023
+54,Windows,2024
+54,Windows Apps,2024
+54,PlayStation 4,2024
+54,Xbox One,2024
+54,PlayStation 5,2024
+54,Xbox Series,2024
+54,Nintendo Switch 2,2025
+55,PlayStation 5,2021
+55,Windows,2022
+55,Macintosh,2024
+55,iPhone,2024
+55,iPad,2024
+55,Windows Apps,2024
+55,Xbox Series,2024
+56,PlayStation 4,2024
+56,PlayStation 5,2024
+56,Nintendo Switch,2024
+56,Xbox Series,2024
+58,PlayStation 5,2024
+58,Windows,2025
+60,Windows,2020
+60,PlayStation 4,2020
+60,Xbox One,2020
+60,PlayStation 5,2021
+60,Xbox Series,2021
+60,Nintendo Switch,2021
+62,PlayStation 5,2021
+62,Windows,2023
+63,Windows,2023
+63,PlayStation 5,2023
+63,Xbox Series,2023
+64,Nintendo Switch,2021
+64,PlayStation 4,2021
+64,Xbox One,2021
+64,PlayStation 5,2021
+64,Xbox Series,2021
+65,Windows,2024
+65,Nintendo Switch,2024
+65,PlayStation 4,2024
+65,PlayStation 5,2024
+66,Windows,2024
+66,PlayStation 4,2024
+66,Xbox One,2024
+66,Nintendo Switch,2024
+66,PlayStation 5,2024
+66,Xbox Series,2024
+66,Android,2025
+66,iPhone,2025
+66,iPad,2025
+67,Windows,2020
+67,PlayStation 4,2020
+67,Xbox One,2020
+67,Stadia,2020
+67,Windows Apps,2020
+67,Nintendo Switch,2020
+67,Xbox Cloud Gaming,2021
+67,PlayStation 5,2021
+68,Windows,2022
+68,Windows Apps,2022
+68,Xbox One,2022
+68,Xbox Series,2022
+68,PlayStation 4,2024
+68,Nintendo Switch,2024
+68,PlayStation 5,2024
+69,Windows,2024
+69,PlayStation 5,2024
+70,Windows,2023
+70,PlayStation 5,2023
+70,Xbox Series,2023
+70,Nintendo Switch 2,2025
+71,PlayStation 4,2023
+71,Nintendo Switch,2023
+72,Windows,2022
+72,Linux,2023
+74,Atari VCS,2022
+74,Xbox One,2022
+74,Xbox Series,2022
+74,Windows,2022
+74,PlayStation 4,2022
+74,Nintendo Switch,2022
+74,PlayStation 5,2022
+75,Windows,2024
+75,PlayStation 4,2025
+75,Xbox One,2025
+75,Nintendo Switch,2025
+75,PlayStation 5,2025
+75,Xbox Series,2025
+76,PlayStation 4,2022
+76,PlayStation 5,2022
+77,Windows,2024
+77,Windows Apps,2024
+77,Xbox Series,2024
+77,Xbox Cloud Gaming,2024
+77,PlayStation 5,2025
+78,Windows,2025
+78,Macintosh,2025
+78,Windows Apps,2025
+78,Nintendo Switch,2025
+78,PlayStation 5,2025
+78,Xbox Series,2025
+78,Xbox Cloud Gaming,2025
+80,Windows,2021
+80,Linux,2022
+80,Macintosh,2022
+80,PlayStation 4,2022
+80,PlayStation 5,2022
+80,Nintendo Switch,2022
+80,Windows Apps,2023
+80,Xbox One,2023
+80,Xbox Series,2023
+81,Windows,2024
+81,Nintendo Switch,2024
+82,PlayStation 5,2021
+82,Windows,2023
+84,Windows,2023
+84,Windows Apps,2023
+84,PlayStation 4,2023
+84,Xbox One,2023
+84,Nintendo Switch,2023
+84,PlayStation 5,2023
+84,Xbox Series,2023
+84,Xbox Cloud Gaming,2023
+86,Windows,2024
+86,Macintosh,2024
+86,PlayStation 4,2024
+86,Nintendo Switch,2024
+86,PlayStation 5,2024
+86,Xbox Series,2024
+87,Windows,2020
+87,Macintosh,2020
+87,PlayStation 4,2020
+87,Xbox One,2020
+87,Nintendo Switch,2020
+87,Linux,2021
+87,iPhone,2021
+87,Android,2021
+87,iPad,2021
+88,Windows,2022
+88,iPhone,2022
+88,Android,2022
+88,iPad,2022
+88,PlayStation 4,2023
+88,Nintendo Switch,2023
+88,Xbox Series,2024
+89,Windows,2022
+89,Windows Apps,2022
+89,Macintosh,2022
+89,Linux,2022
+91,Windows,2025
+91,PlayStation 5,2025
+91,Xbox Series,2025
+92,Windows,2022
+92,Nintendo Switch,2022
+92,PlayStation 4,2022
+92,PlayStation 5,2022
+92,Windows Apps,2024
+92,Xbox One,2024
+92,Xbox Series,2024
+93,Windows,2024
+93,Windows Apps,2025
+93,Xbox One,2025
+93,Xbox Series,2025
+94,Windows,2024
+94,Macintosh,2024
+94,Windows Apps,2024
+94,PlayStation 5,2025
+94,Xbox Series,2025
+94,Xbox Cloud Gaming,2025
+95,Windows,2021
+95,Windows Apps,2021
+95,PlayStation 4,2021
+95,Xbox One,2021
+95,Nintendo Switch,2021
+95,Xbox Series,2021
+95,Xbox Cloud Gaming,2021
+95,PlayStation 5,2021
+96,Windows,2023
+96,PlayStation 4,2023
+96,Nintendo Switch,2023
+96,PlayStation 5,2023
+97,PlayStation 4,2021
+97,Windows,2021
+97,Xbox One,2021
+97,Xbox Series,2021
+98,Nintendo Switch,2022
+98,Windows,2022
+98,Windows Apps,2022
+98,PlayStation 4,2022
+98,Xbox One,2022
+98,Xbox Series,2022
+99,Nintendo Switch,2021
+99,Windows,2022
+99,Windows Apps,2023
+99,PlayStation 4,2023
+99,Xbox One,2023
+99,PlayStation 5,2023
+99,Xbox Series,2023
+100,PlayStation 4,2020
+100,Windows,2020
+100,Windows Apps,2020
+100,Xbox One,2020
+100,Xbox Series,2020
+100,PlayStation 5,2021
+100,Luna,2021
+101,PlayStation 4,2022
+101,PlayStation 5,2022
+102,Windows,2021
+102,PlayStation 4,2021
+102,Xbox One,2021
+102,Stadia,2021
+102,PlayStation 5,2021
+102,Xbox Series,2021
+103,Windows,2025
+103,Windows Apps,2025
+103,PlayStation 5,2025
+103,Xbox Series,2025
+104,Windows,2022
+104,PlayStation 4,2022
+104,Nintendo Switch,2022
+104,PlayStation 5,2022
+105,Nintendo Switch,2021
+105,Android,2023
+105,iPhone,2023
+105,iPad,2023
+106,Windows,2023
+106,Nintendo Switch,2024
+107,Windows,2023
+107,PlayStation 4,2023
+107,Xbox One,2023
+107,Nintendo Switch,2023
+107,Xbox Series,2023
+107,iPhone,2024
+107,Android,2024
+107,iPad,2024
+108,Xbox Cloud Gaming,2020
+108,Windows,2020
+108,Windows Apps,2020
+108,PlayStation 4,2020
+108,Xbox One,2020
+108,Nintendo Switch,2020
+108,Linux,2020
+108,Macintosh,2020
+108,Stadia,2021
+108,iPhone,2022
+108,Android,2022
+108,iPad,2022
+111,Windows,2025
+111,Nintendo Switch,2025
+112,PlayStation 5,2021
+112,Windows,2021
+113,Linux,2020
+113,Windows,2020
+113,Macintosh,2020
+113,Windows Apps,2020
+113,PlayStation 5,2022
+114,PlayStation 4,2024
+114,Windows,2024
+114,Nintendo Switch,2024
+114,Xbox One,2025
+114,Xbox Series,2025
+115,Windows,2025
+115,PlayStation 4,2025
+115,Xbox One,2025
+115,Nintendo Switch,2025
+115,PlayStation 5,2025
+115,Xbox Series,2025
+116,Windows,2020
+116,Xbox Series,2022
+116,Nintendo Switch,2022
+116,PlayStation 4,2023
+116,PlayStation 5,2023
+118,Linux,2025
+118,Windows,2025
+118,Macintosh,2025
+118,PlayStation 5,2025
+118,Xbox Series,2025
+119,PlayStation 5,2023
+119,Windows,2024
+120,PlayStation 5,2025
+120,Windows,2025
+120,Xbox Series,2025
+121,Windows,2022
+121,Windows Apps,2022
+121,Xbox Series,2022
+121,Xbox Cloud Gaming,2022
+121,iPhone,2022
+121,Android,2022
+121,iPad,2022
+121,Macintosh,2023
+121,PlayStation 5,2024
+122,Windows,2022
+122,Macintosh,2022
+122,Nintendo Switch,2022
+122,Linux,2022
+122,Windows Apps,2022
+122,PlayStation 5,2022
+122,Xbox Series,2022
+122,iPhone,2023
+122,Android,2023
+122,iPad,2023
+123,Linux,2023
+123,Windows,2023
+123,Macintosh,2023
+123,Nintendo Switch,2024
+124,Linux,2022
+124,Windows,2022
+124,Macintosh,2022
+125,Linux,2025
+125,Windows,2025
+125,Macintosh,2025
+126,Windows,2023
+126,PlayStation 4,2023
+126,Xbox One,2023
+126,Nintendo Switch,2023
+126,PlayStation 5,2023
+126,Xbox Series,2023
+127,Windows,2023
+127,PlayStation 4,2023
+127,Nintendo Switch,2023
+127,PlayStation 5,2023
+127,Windows Apps,2024
+127,Xbox One,2024
+127,Xbox Series,2024
+128,Windows,2023
+128,PlayStation 4,2023
+128,Xbox One,2023
+128,PlayStation 5,2023
+128,Xbox Series,2023
+129,Windows,2023
+129,Windows Apps,2023
+129,PlayStation 4,2023
+129,Xbox One,2023
+129,Nintendo Switch,2023
+129,PlayStation 5,2023
+129,Xbox Series,2023
+130,Windows,2025
+130,Windows Apps,2025
+130,PlayStation 5,2025
+130,Xbox Series,2025
+130,Xbox Cloud Gaming,2025
+131,Windows Apps,2024
+131,PlayStation 5,2024
+131,Xbox Series,2024
+131,Windows,2024
+131,Nintendo Switch,2024
+132,PlayStation 4,2021
+132,Nintendo Switch,2021
+132,Windows,2021
+134,Windows,2025
+134,Windows Apps,2025
+134,PlayStation 4,2025
+134,Xbox One,2025
+134,Nintendo Switch,2025
+134,PlayStation 5,2025
+134,Xbox Series,2025
+137,PlayStation 5,2023
+137,Windows,2024
+137,Windows Apps,2025
+137,Xbox Series,2025
+138,Windows,2022
+138,Macintosh,2022
+138,Windows Apps,2022
+138,Xbox Cloud Gaming,2022
+138,PlayStation 4,2022
+138,Xbox One,2022
+138,PlayStation 5,2022
+138,Xbox Series,2022
+139,Windows,2025
+139,PlayStation 5,2025
+140,Nintendo Switch,2021
+140,Windows,2021
+140,PlayStation 4,2021
+140,Xbox One,2021
+140,Xbox Series,2021
+141,Xbox One,2021
+141,Xbox Series,2021
+141,Windows,2021
+141,PlayStation 4,2021
+142,PlayStation 5,2025
+142,Windows,2025
+142,Windows Apps,2025
+142,Xbox Series,2025
+143,Xbox One,2021
+143,Xbox Series,2021
+143,PlayStation 4,2021
+143,PlayStation 5,2021
+143,Windows,2022
+144,Windows,2024
+144,PlayStation 4,2024
+144,PlayStation 5,2024
+145,Windows,2024
+145,Nintendo Switch,2024
+146,Windows,2021
+146,Android,2022
+146,iPhone,2022
+146,iPad,2022
+146,PlayStation 5,2023
+147,PlayStation 4,2021
+147,Windows,2022
+147,PlayStation 5,2022
+147,Nintendo Switch,2024
+149,Windows,2024
+149,Windows Apps,2024
+149,PlayStation 4,2024
+149,Xbox One,2024
+149,Nintendo Switch,2024
+149,Xbox Series,2024
+150,Windows,2022
+150,PlayStation 4,2022
+150,Xbox One,2022
+150,Nintendo Switch,2022
+150,PlayStation 5,2022
+150,Xbox Series,2022
+151,Windows,2022
+151,Macintosh,2022
+151,Windows Apps,2022
+151,Xbox One,2022
+151,Xbox Series,2022
+151,PlayStation 4,2022
+151,Nintendo Switch,2022
+151,PlayStation 5,2022
+152,Windows,2021
+152,PlayStation 4,2021
+152,Nintendo Switch,2021
+154,Windows,2020
+154,Macintosh,2020
+154,Windows Apps,2022
+154,Xbox One,2022
+154,Nintendo Switch,2022
+154,Xbox Series,2022
+154,Xbox Cloud Gaming,2022
+154,PlayStation 4,2022
+155,Windows,2021
+155,PlayStation 4,2021
+155,Xbox One,2021
+155,Nintendo Switch,2021
+155,PlayStation 5,2021
+155,Xbox Series,2021
+156,Windows,2023
+156,Nintendo Switch,2023
+157,Windows,2025
+157,PlayStation 4,2025
+157,Nintendo Switch,2025
+157,PlayStation 5,2025
+157,Xbox Series,2025
+157,Nintendo Switch 2,2025
+158,Windows,2023
+158,iPhone,2023
+158,Android,2023
+158,iPad,2023
+158,Nintendo Switch,2023
+160,Windows,2023
+160,PlayStation 4,2023
+160,Xbox One,2023
+160,Nintendo Switch,2023
+160,Xbox Series,2023
+160,Windows Apps,2024
+161,Windows,2021
+161,PlayStation 4,2021
+161,Xbox One,2021
+161,PlayStation 5,2021
+161,Xbox Series,2021
+161,Stadia,2022
+163,Windows,2023
+163,PlayStation 4,2023
+163,Nintendo Switch,2023
+163,PlayStation 5,2023
+165,Linux,2025
+165,Windows,2025
+165,Macintosh,2025
+166,Windows,2022
+166,PlayStation 4,2022
+166,Xbox One,2022
+166,Nintendo Switch,2022
+166,PlayStation 5,2022
+166,Xbox Series,2022
+167,Windows,2025
+167,PlayStation 4,2025
+167,PlayStation 5,2025
+167,Xbox Series,2025
+167,Nintendo Switch 2,2025
