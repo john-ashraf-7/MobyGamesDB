@@ -1,4 +1,0 @@
-beautifulsoup4>=4.12.2
-playwright>=1.39.0
-mysql-connector-python
-pandas
