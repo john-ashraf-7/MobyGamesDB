@@ -16,7 +16,7 @@ The system was developed in three major milestones:
 2. **Data Population** - Web crawling and data extraction from MobyGames
 3. **Application Layer** - Full-stack web application with complex query capabilities
 
-**Live Demo:** [Add your deployment URL here]
+**Live Demo:** https://moby-games-db.vercel.app/
 
 **Course:** Fundamentals of Database Systems (CSCE 2501) - American University in Cairo  
 **Instructor:** Prof. Mohammed ElHalaby  
